@@ -20,6 +20,13 @@
           >
             Resources
           </router-link>
+          <router-link 
+            to="/bookings" 
+            class="block px-4 py-2 rounded-md transition-colors hover:bg-slate-800"
+            active-class="bg-indigo-600 hover:bg-indigo-600"
+          >
+            My Bookings
+          </router-link>
         </nav>
       </div>
 
